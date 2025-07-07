@@ -9,7 +9,7 @@ import org.mindrot.jbcrypt.BCrypt
 
 object Util {
 
-    private const val HASHED_PASSWORD = "\$2y\$17\$TgGh.GwGdyYoNRXy/Lzla.0JPZcgIQaQkQnsFdJs/ol.NocqX1Zgm"  // Hash of "!ns3csh0p"
+    private const val HASHED_PASSWORD = "\$2a\$17\$TgGh.GwGdyYoNRXy/Lzla.0JPZcgIQaQkQnsFdJs/ol.NocqX1Zgm"  // Hash of "!ns3csh0p"
 
 
     fun verifyUserNamePassword(username: String, password: String): Boolean {
