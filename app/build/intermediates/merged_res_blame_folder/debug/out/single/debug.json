@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_base_main.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/base_main.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/xml_provider_paths.xml.flat",
+        "source": "com.insecureshop.app-main-29:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-ldpi_ic_plus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-ldpi/ic_plus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_activity_product_list.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-ldpi_ic_supermarket.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-ldpi/ic_supermarket.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_activity_main.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_toolbar.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable_btn_bg.xml.flat",
+        "source": "com.insecureshop.app-main-29:/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxxhdpi_ic_info.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxxhdpi/ic_info.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-hdpi_ic_logout.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-hdpi/ic_logout.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_product_item.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/product_item.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-mdpi_ic_shopping_cart.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-mdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-anydpi-v21_ic_email_black_24dp.xml.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-anydpi-v21/ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxhdpi_ic_email_black_24dp.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxxhdpi_ic_email_black_24dp.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxxhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-hdpi_ic_minus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-hdpi/ic_minus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-anydpi-v21_ic_supermarket.xml.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-anydpi-v21/ic_supermarket.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_upload_success_dialog.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/upload_success_dialog.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxhdpi_ic_minus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxhdpi/ic_minus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable_edittext_bg.xml.flat",
+        "source": "com.insecureshop.app-main-29:/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-anydpi-v21_ic_shopping_cart.xml.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-anydpi-v21/ic_shopping_cart.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-hdpi_ic_email_black_24dp.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-hdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xhdpi_ic_email_black_24dp.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-ldpi_ic_email_black_24dp.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-ldpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/font_roboto_light.ttf.flat",
+        "source": "com.insecureshop.app-main-29:/font/roboto_light.ttf"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-anydpi-v21_ic_logout.xml.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-anydpi-v21/ic_logout.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-anydpi-v21_ic_plus.xml.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-anydpi-v21/ic_plus.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-anydpi-v21_ic_minus.xml.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-anydpi-v21/ic_minus.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_activity_cart_list.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/activity_cart_list.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xhdpi_ic_info.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xhdpi/ic_info.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-mdpi_ic_info.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-mdpi/ic_info.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/menu_main_menu.xml.flat",
+        "source": "com.insecureshop.app-main-29:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-ldpi_ic_info.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-ldpi/ic_info.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xhdpi_ic_plus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xhdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxhdpi_ic_supermarket.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxhdpi/ic_supermarket.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-anydpi-v21_ic_info.xml.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-anydpi-v21/ic_info.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/font_roboto_medium.ttf.flat",
+        "source": "com.insecureshop.app-main-29:/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-ldpi_ic_shopping_cart.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-ldpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-mdpi_ic_plus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-mdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable_loading_ring.png.flat",
+        "source": "com.insecureshop.app-main-29:/drawable/loading_ring.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-ldpi_ic_logout.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-ldpi/ic_logout.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxhdpi_ic_info.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxhdpi/ic_info.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xhdpi_ic_logout.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xhdpi/ic_logout.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_cart_item.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/cart_item.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxxhdpi_ic_supermarket.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxxhdpi/ic_supermarket.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xhdpi_ic_supermarket.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xhdpi/ic_supermarket.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xhdpi_ic_minus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xhdpi/ic_minus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_fragment_home.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-mdpi_ic_minus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-mdpi/ic_minus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/font_roboto_bold.ttf.flat",
+        "source": "com.insecureshop.app-main-29:/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_activity_implicit_intent_for_non_exported.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/activity_implicit_intent_for_non_exported.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-hdpi_ic_plus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-hdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxhdpi_ic_logout.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-mdpi_ic_logout.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-mdpi/ic_logout.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-hdpi_ic_supermarket.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-hdpi/ic_supermarket.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_activity_chooser.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/activity_chooser.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-hdpi_ic_shopping_cart.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-hdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/font_roboto.ttf.flat",
+        "source": "com.insecureshop.app-main-29:/font/roboto.ttf"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxhdpi_ic_shopping_cart.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_activity_webview.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/activity_webview.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-ldpi_ic_minus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-ldpi/ic_minus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-mdpi_ic_supermarket.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-mdpi/ic_supermarket.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_activity_private.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/activity_private.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-hdpi_ic_info.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-hdpi/ic_info.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_activity_about_us.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxxhdpi_ic_shopping_cart.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxxhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.insecureshop.app-main-29:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_app_loading_dialog.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/app_loading_dialog.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable_btn_bg_yellow.xml.flat",
+        "source": "com.insecureshop.app-main-29:/drawable/btn_bg_yellow.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxhdpi_ic_plus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/color_bottom_icon_selector.xml.flat",
+        "source": "com.insecureshop.app-main-29:/color/bottom_icon_selector.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/layout_activity_login.xml.flat",
+        "source": "com.insecureshop.app-main-29:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-mdpi_ic_email_black_24dp.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-mdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxxhdpi_ic_minus.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxxhdpi/ic_minus.png"
+    },
+    {
+        "merged": "com.insecureshop.app-merged_res-27:/drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "com.insecureshop.app-pngs-22:/drawable-xxxhdpi/ic_logout.png"
+    }
+]
