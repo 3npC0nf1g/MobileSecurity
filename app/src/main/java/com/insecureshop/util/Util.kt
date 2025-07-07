@@ -5,23 +5,16 @@ import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.insecureshop.ProductDetail
 import kotlin.collections.ArrayList
-import kotlin.collections.HashMap
+import org.mindrot.jbcrypt.BCrypt
 
 object Util {
 
-    private fun getUserCreds(): HashMap<String,String> {
-        val userCreds = HashMap<String, String>()
-        userCreds["shopuser"] = "!ns3csh0p"
-        return userCreds
-    }
+    private const val HASHED_PASSWORD = "\$2y\$17\$TgGh.GwGdyYoNRXy/Lzla.0JPZcgIQaQkQnsFdJs/ol.NocqX1Zgm"  // Hash of "!ns3csh0p"
+
 
     fun verifyUserNamePassword(username: String, password: String): Boolean {
-        if (getUserCreds().containsKey(username)) {
-            val passwordValue = getUserCreds()[username]
-            return passwordValue.equals(password)
-        } else {
-            return false
-        }
+        if (username != "shopuser") return false
+        return BCrypt.checkpw(password, HASHED_PASSWORD)
     }
 
     private fun getProductList(): ArrayList<ProductDetail> {
