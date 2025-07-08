@@ -42,8 +42,6 @@ class LoginActivity : AppCompatActivity() {
 
         var auth = Util.verifyUserNamePassword(username, password)
         if (auth) {
-            Prefs.getInstance(applicationContext).username = username
-            Prefs.getInstance(applicationContext).password = password
             Util.saveProductList(this)
             val intent = Intent(this, ProductListActivity::class.java)
             startActivity(intent)
